@@ -30,6 +30,13 @@ Build a strong foundation in AI Engineering by learning Python, Large Language M
 - Displayed the AI-generated response.
 - Practiced environment variable handling and API integration.
 
+### Day 3 — System Prompts and Temperature**
+
+- Used a system prompt to define the LLM's role and response constraints.
+- Experimented with temperature to observe changes in generated brand names.
+- Learned how system instructions and temperature influence LLM outputs.
+- Practiced calling the Groq Chat Completions API using Python.
+
 ## 🛠️ Tech Stack
 
 - **Language:** Python
