@@ -1,3 +1,4 @@
+
 # Python-generated files
 __pycache__/
 *.py[oc]
@@ -6,9 +7,10 @@ dist/
 wheels/
 *.egg-info
 
-# Virtual environments
-.venv
-
+# Environment variables and secrets
 .env
 .env.*
 !.env.example
+
+# Virtual environments
+.venv/

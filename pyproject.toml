@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [project]
 name = "day5"
 version = "0.1.0"
@@ -5,16 +6,33 @@ description = "Add your description here"
 readme = "README.md"
 authors = [
     { name = "Pooja Maurya", email = "Pooja.devhub@gmail.com" }
+=======
+
+[project]
+name = "day4"
+version = "0.1.0"
+description = "Day 4 - LLM token usage tracking with Groq"
+readme = "README.md"
+authors = [
+    { name = "Pooja Maurya", email = "pooja.devhub@gmail.com" }
+>>>>>>> origin/main
 ]
 requires-python = ">=3.14"
 dependencies = [
     "groq>=1.7.0",
+<<<<<<< HEAD
     "pydantic>=2.14.1",
+=======
+>>>>>>> origin/main
     "python-dotenv>=1.2.4",
 ]
 
 [project.scripts]
+<<<<<<< HEAD
 day5 = "day5:main"
+=======
+day4 = "day4:main"
+>>>>>>> origin/main
 
 [build-system]
 requires = ["uv_build>=0.13.0,<0.14.0"]
